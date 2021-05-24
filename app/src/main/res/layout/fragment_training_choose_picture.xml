@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TrainingChoosePictureFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/view_word_to_guess"
+        style="@style/textStyle"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="103dp"
+        android:layout_marginBottom="337dp"
+        android:text="placeholder"
+        android:gravity="center"
+        android:textSize="25sp"
+        tools:src="@tools:sample/avatars" />
+
+    <ImageButton
+        android:id="@+id/view_other_picture_4"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="71dp"
+        android:adjustViewBounds="true"
+        android:padding="5dp"
+        android:scaleType="fitCenter" />
+
+    <ImageButton
+        android:id="@+id/view_other_picture_1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="223dp"
+        android:layout_marginBottom="72dp"
+        android:adjustViewBounds="true"
+        android:padding="5dp"
+        android:scaleType="fitCenter" />
+
+    <ImageButton
+        android:id="@+id/view_other_picture_2"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="228dp"
+        android:layout_marginBottom="471dp"
+        android:adjustViewBounds="true"
+        android:padding="5dp"
+        android:scaleType="fitCenter" />
+
+    <ImageButton
+        android:id="@+id/view_other_picture_3"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="473dp"
+        android:adjustViewBounds="true"
+        android:padding="5dp"
+        android:scaleType="fitCenter" />
+
+</RelativeLayout>

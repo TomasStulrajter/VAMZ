@@ -1,0 +1,45 @@
+<resources>
+    <!-- Aplikacia -->
+    <string name="app_name">FRI DROPS</string>
+
+    <!-- Aktivity -->
+    <string name="title_activity_dictionary">DictionaryActivity</string>
+    <string name="title_activity_dictionary_add">DictionaryAddActivity</string>
+    <string name="title_activity_training">TrainingActivity</string>
+
+    <!-- Rozne -->
+    <string name="training">Tréning</string>
+    <string name="dictionary">Slovník</string>
+    <string name="statistics">Štatistiky</string>
+    <string name="exit">Koniec</string>
+
+    <string name="category_pick">Ktorú kategóriu chceš trénovať?</string>
+    <string name="new_word">Nové slovo!</string>
+    <string name="remember">Zapamätať</string>
+    <string name="what_see">Čo vidíš?</string>
+    <string name="spravne">Správne!</string>
+    <string name="nespravne">Neprávne!</string>
+    <string name="nespravne_odpoved">Nesprávne! Správna odpoveď bola </string>
+    <string name="training_result">Výsledky tréningu</string>
+    <string name="completed_words">Riešených úloh</string>
+    <string name="correct_words">Splnených úloh</string>
+    <string name="success_ratio">Percentuálna úspešnosť</string>
+    <string name="statistics_saving">Ukladám doterajšie štatistiky</string>
+
+
+    <string name="add_word">Slovo</string>
+    <string name="add_translation">Preklad</string>
+    <string name="add_category">Kategória</string>
+    <string name="pridaj_nove_slovo">Pridaj nové slovo</string>
+    <string name="pridaj_slovo">Pridaj</string>
+    <string name="nove_slovo_pridane">Nové slovo pridané</string>
+    <string name="nove_slovo_nepridane">Polia nemôžu byť prázdne!</string>
+    <string name="confirm">Potvrď</string>
+
+
+    <string name="total_completed_words">Celkový počet riešených úloh</string>
+    <string name="total_correct_words">Správne vyriešených úloh</string>
+    <string name="total_success_ratio">Celková úspešnosť</string>
+    <string name="total_session_count">Počet ukončených tréningov</string>
+
+</resources>
